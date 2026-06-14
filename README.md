@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me:
 
-- 🎓 Second-year BTech student specializing in **AI & Data Science**  
+- 🎓 Third-year BTech student specializing in **AI & Data Science**  
 - 🔭 Currently focused on **Data Structures & Algorithms + Full Stack Development**  
 - 🌱 Learning **Machine Learning, Problem Solving & Real-world Projects**  
 - 🤝 Seeking guidance in **Advanced DSA & ML concepts**  
